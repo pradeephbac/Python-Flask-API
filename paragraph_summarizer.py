@@ -1,3 +1,4 @@
+from nltk.downloader import download, download_shell
 from nltk.tokenize import sent_tokenize, word_tokenize
 from nltk.corpus import stopwords
 from string import punctuation
